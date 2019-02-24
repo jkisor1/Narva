@@ -1,0 +1,35 @@
+<html>
+  <link href="style.css" rel="stylesheet">
+  <ul>
+  <li><a>Home</a></li>
+  <li><a>Muifical</a>
+     
+                                                           
+                 <ul>                        
+        <li><a>Music</a></li>
+  <li><a>Sign In</a></li>   
+  <li><a>Store</a></li>
+</ul>                                                                       
+    </li>    
+               
+                                         
+  <li><a>Youtube</a>
+    <ul>
+      <li><a>Videos</a></li>
+  <li><a>Kavid_jisor32</a></li>   
+  <li><a>Subscribe</a></li>
+    </ul>
+    
+    </li>
+    
+    
+    
+  <li><a>Kavid_jisor32</a></li>   
+  <li><a>Sign In</a>
+    <ul>
+    
+  <li><a>Sign Up</a></li>   
+  <li><a>Sign Out</a></li>
+    
+    </ul>
+    </li>
